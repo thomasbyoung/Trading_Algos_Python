@@ -1,1 +1,1 @@
-# Eq_Weight_S-P500_Screener
+# Trading_Algos_Python
